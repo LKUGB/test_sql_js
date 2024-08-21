@@ -1,0 +1,17 @@
+{
+  "name": "test_js_sql",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "test mysql with server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sql",
+    "js"
+  ],
+  "author": "Jack",
+  "license": "ISC"
+}
